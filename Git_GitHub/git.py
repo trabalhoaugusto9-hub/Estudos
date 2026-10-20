@@ -1,0 +1,1 @@
+"""Git é um software de versionamento de código VCS (Software de Controle de Versão)"""
